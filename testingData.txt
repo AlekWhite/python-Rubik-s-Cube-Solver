@@ -1,0 +1,42 @@
+
+# iteration 1 (with WC + WCC)
+    1123 total tests
+    17% reruns
+    33.8 avg-moves
+    24 avg-corner-moves
+    7.8 avg-cross-moves
+    2090ms avg-time
+
+# iteration 2 (with WC + WCC)
+    1980 total tests
+    21% reruns
+    35.0 avg-moves
+    23.8 avg-corner-moves
+    9.4 avg-cross-moves
+    190ms avg-time
+
+# iteration 3 (with WC + F2L)
+    2256 total tests
+    19.3% reruns
+    44.37 avg-moves
+    34.09 avg-F2L-moves
+    10.27 avg-cross-moves
+    236ms avg-time
+
+# iteration 4 (with WC + F2L + OLL)
+    2717 total tests
+    19.0% reruns
+    55.12 avg-moves
+    34.30 avg-F2L-moves
+    10.26 avg-cross-moves
+    235ms avg-time
+
+# iteration 5 (with FULL SOLVE)
+    5967 total tests
+    19.8% reruns
+    68.06 avg-moves
+    33.95 avg-F2L-moves
+    10.23 avg-cross-moves
+    239ms avg-time
+
+
